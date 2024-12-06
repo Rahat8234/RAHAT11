@@ -4,10 +4,10 @@ const path = require('path');
 
 module.exports = {
   config: {
-    name: "bot",
+    name: "বট",
     version: "1.0.0",
     permission: 0,
-    credits: "nayan",
+    credits: "RAHAT",
     description: "talk with bot",
     prefix: 'awto',
     category: "talk",
