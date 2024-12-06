@@ -1,8 +1,8 @@
 module.exports.config = {
-	name: "uns",
+	name: "unsend",
 	version: "1.0.5",
-	permission: 2,
-	credits: "Nayan",
+	permission: 0,
+	credits: "RAHAT",
 	prefix: true,
 	description: "ban or unblock users",
 	category: "admin",
